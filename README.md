@@ -12,4 +12,5 @@ This game uses pokemon textures and sprites for graphical representation and inv
 - Collectibles that the player needs to gather before reaching the exit.
 - A minimalistic 2D map with obstacles and a defined exit goal.
 - Integration with MiniLibX for graphics and window management.
+- Many maps to choose from for an almost fun gameplay.
 
