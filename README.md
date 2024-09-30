@@ -52,7 +52,7 @@ Run the Game: After successful compilation, you can run the game with:
 
     ./so_long <path_to_map>
 
-    Replace <path_to_map> with your desired map file in the maps folder.
+Replace <path_to_map> with your desired map file in the maps folder.
 
 Enjoy the Game!
 
