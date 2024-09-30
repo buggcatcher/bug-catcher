@@ -16,7 +16,7 @@ This game uses pokemon textures and sprites for graphical representation and inv
 
 
 
-Getting Started: Step-by-Step Guide
+## Getting Started: Step-by-Step Guide
 
 To set up and run the Bug Catcher game, follow these steps:
 Prerequisites
